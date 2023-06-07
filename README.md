@@ -1,18 +1,3 @@
-<style>
-  body {
-    background-color: #4CAF50;
-    color: white;
-  }
-
-  h1, h3 {
-    color: white;
-  }
-
-  .section {
-    margin-bottom: 20px;
-  }
-</style>
-
 <p align="center">
   <img src="https://vagner-guedes.github.io/my-portfolio/html_finalprojimages/Logo3.gif" alt="Logo" width="200" height="200" />
 </p>
