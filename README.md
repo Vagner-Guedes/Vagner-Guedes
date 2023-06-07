@@ -18,6 +18,9 @@
     <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" style="vertical-align:top; margin:4px">
     </a>
+    <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills" height="40" width="40" style="vertical-align:top; margin:4px">
+    </a>
   </p>
 </div>
 
