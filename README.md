@@ -33,8 +33,6 @@
   </p>
 </div>
 <div align="center">
-  <h3>GitHub Stats</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Vagner-Guedes&show_icons=true&theme=dark" alt="GitHub Stats"></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagner-Guedes&layout=compact&theme=dark" alt="Top Languages"></p>
 </div>
 
