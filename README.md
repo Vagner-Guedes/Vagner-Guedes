@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="[https://linkedin.com/in/https://www.linkedin.com/in/vagner-guedes/](https://www.linkedin.com/in/vagner-guedes/)" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vagner-guedes/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://instagram.com/guedes_vag" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
 </p>
 
