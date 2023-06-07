@@ -1,5 +1,8 @@
 <h1 align="center">Hi,I'm Vagner Guedes 👋 </h1>
-<h3 align="center">I'm a technology student, looking to grow as a java and mobile developer.</h3>
+<h3 align="center">Systems Analysis and Development student passionate about technology. I'm currently studying Systems Analysis at
+        UCSAL and I'm also doing an internship at In9mídia, where I have the opportunity to apply my knowledge in real
+        projects. I've been focusing my studies on HTML, CSS and JavaScript, and I'm making progress in learning Java.
+        I'm looking for new experiences to improve my technical skills and expand my knowledge in software development.</h3>
 
 - I’m currently learning **HTML, CSS, JAVASCRIPT and Java**
 
