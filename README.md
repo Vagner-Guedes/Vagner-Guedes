@@ -5,21 +5,8 @@
 
 <div align="center">
   <h3>Languages and Tools:</h3>
-  <p>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills" height="40" width="40" style="vertical-align:top; margin:4px">
+     <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=js,html,css,java,phyton" alt="My Skills" height="80" width="80" style="vertical-align:top; margin:4px">
     </a>
   </p>
 </div>
