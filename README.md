@@ -6,7 +6,7 @@
 <div align="center">
   <h3>Languages and Tools:</h3>
      <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=js,html,css,java,phyton" alt="My Skills" height="80" width="80" style="vertical-align:top; margin:4px">
+      <img src="https://skillicons.dev/icons?i=js,html,css,java,py" alt="My Skills" height="200" width="200" style="vertical-align:top; margin:4px">
     </a>
   </p>
 </div>
