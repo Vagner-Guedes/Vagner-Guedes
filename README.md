@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="README.css">
 <p align="center">
   <img src="https://vagner-guedes.github.io/my-portfolio/html_finalprojimages/Logo3.gif" alt="Logo" width="200" height="200" />
 </p>
