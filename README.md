@@ -25,7 +25,7 @@
   <h3>GitHub Streak and Stats</h3>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=Vagner-Guedes&theme=chartreuse-dark&hide_border=false&locale=pt_BR&mode=weekly" alt="GitHub Streak" style="float: left; margin-right: 20px;" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Vagner-Guedes&theme=transparent" alt="GitHub Streak" style="float: left; margin-right: 20px;" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=Vagner-Guedes&show_icons=true&theme=dark" alt="GitHub Stats" />
