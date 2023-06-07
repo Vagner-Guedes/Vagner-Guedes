@@ -1,0 +1,12 @@
+body {
+  background-color: #4CAF50;
+  color: white;
+}
+
+h1, h3 {
+  color: white;
+}
+
+.section {
+  margin-bottom: 20px;
+}
