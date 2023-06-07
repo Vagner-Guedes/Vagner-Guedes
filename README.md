@@ -28,3 +28,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vagner-Guedes&theme=chartreuse-dark&hide_border=falso&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
