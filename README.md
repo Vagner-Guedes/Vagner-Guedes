@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I'm Vagner Guedes 👋 </h1>
 <h3 align="center">I'm a technology student, looking to grow as a java and mobile developer.</h3>
 
-- 🌱 I’m currently learning **Java, Spring Boot, Android and MongDB**
+- I’m currently learning **HTML, CSS, JAVASCRIPT and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
