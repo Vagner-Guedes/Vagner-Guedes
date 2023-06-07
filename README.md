@@ -2,8 +2,6 @@
 
 <h3 align="center">Systems Analysis and Development student passionate about technology. I'm currently studying Systems Analysis at UCSAL and also working as an intern at In9mídia, where I have the opportunity to apply my knowledge to real projects. My main focus is on HTML, CSS, and JavaScript, and I'm also making progress in learning Java. I'm always seeking new experiences to improve my technical skills and expand my knowledge in software development.</h3>
 
-- 💻 I’m currently learning **HTML, CSS, JavaScript, and Java**.
-
 <div align="center">
   <h3>Languages and Tools:</h3>
   <p>
