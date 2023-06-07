@@ -5,8 +5,21 @@
 
 <div align="center">
   <h3>Languages and Tools:</h3>
-     <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=js,html,css,java,py" alt="My Skills" height="200" width="200" style="vertical-align:top; margin:4px">
+  <p>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/api/icons/html5" alt="HTML5" height="40" width="40" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/api/icons/css3" alt="CSS3" height="40" width="40" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/api/icons/javascript" alt="JavaScript" height="40" width="40" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/api/icons/java" alt="Java" height="40" width="40" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/api/icons/python" alt="Python" height="40" width="40" style="vertical-align:top; margin:4px">
     </a>
   </p>
 </div>
