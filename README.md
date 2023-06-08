@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Vagner Guedes! 👋</h1>
 
-<h3 align="center">Systems Analysis and Development student passionate about technology. I'm currently studying Systems Analysis at UCSAL and also working as an intern at In9mídia, where I have the opportunity to apply my knowledge to real projects. My main focus is on HTML, CSS, and JavaScript, and I'm also making progress in learning Java. I'm always seeking new experiences to improve my technical skills and expand my knowledge in software development.</h3>
-
+<h3 align="center">Systems Analysis and Development student passionate about technology. I'm currently studying Systems Analysis at UCSAL and also working as an intern at In9mídia, where I have the opportunity to apply my knowledge to real projects. My main focus is on HTML, CSS, and JavaScript, and I'm also making progress in learning Java. Recently, I have started studying Python as well. I'm always seeking new experiences to improve my technical skills and expand my knowledge in software development.</h3>
 
 <div align="center">
   <h3>Languages and Tools:</h3>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="vertical-align:top; margin:4px">
   </p>
 </div>
+
 
 <div align="center">
   <h3>GitHub Streak and Stats</h3>
@@ -31,9 +31,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vagner-guedes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vagner-guedes/" height="30" width="40" /></a>
-  <a href="https://instagram.com/guedes_ads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guedes_ads" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/5899" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RengavZ#5899" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/vagner-guedes/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/guedes_ads" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discordapp.com/users/5899" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> 
 </p>
-
