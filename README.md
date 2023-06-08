@@ -35,3 +35,4 @@
   <a href="https://instagram.com/guedes_ads" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://discordapp.com/users/5899" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> 
 </p>
+<p align="center"><img src="https://github.com/Vagner-Guedes/Vagner-Guedes/blob/output/github-contribution-grid-snake.svg" alt="Snake"></p>
