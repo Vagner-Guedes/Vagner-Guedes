@@ -23,6 +23,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=Vagner-Guedes&show_icons=true&theme=dark" alt="GitHub Stats" />
     </a>
+    <br>
   </p>
 </div>
 <div align="center">
