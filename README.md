@@ -1,6 +1,6 @@
 ![banner](images/github.png)
 
-<h3 align="justify">Systems Analysis and Development student passionate about technology.</h3>
+<h3 align="center">Systems Analysis and Development student passionate about technology.</h3>
 
 <div align="center">
   <h3>Languages and Tools:</h3>
@@ -14,22 +14,7 @@
 </div>
 
 
-<div align="center">
-  <h3>GitHub Streak and Stats</h3>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Vagner-Guedes&theme=dark&fire=white&ring=DD2727&currStreakLabel=DD2727&border=DD2727" alt="GitHub Streak" style="float: left; margin-right: 20px;"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vagner-Guedes&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </a>
-    <br>
-    <br>
-  </p>
-</div>
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagner-Guedes&layout=compact&theme=dark" alt="Top Languages"></p>
-</div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
