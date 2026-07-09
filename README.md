@@ -1,6 +1,6 @@
 ![banner](images/github.png)
 
-<h3 align="center">Systems Analysis and Development student passionate about technology.</h3>
+<h3 align="center">Systems Analysis and Development passionate about technology.</h3>
 
 <div align="center">
   <h3>Languages and Tools:</h3>
